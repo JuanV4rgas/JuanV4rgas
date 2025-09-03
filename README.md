@@ -15,7 +15,7 @@
   <img hight="200" width="300" alt="GIF" align="center" src="https://i.pinimg.com/originals/5c/74/a1/5c74a1a8bc0f8606ce8d784df61fb2f5.gif">
 </div>
 
-🚀 About Me
+## 🚀 About Me
 
 🎓 **Systems Engineering Student at Pontificia Universidad Javeriana (expected 2026) with a strong focus on Web Development, AI, and Cloud Computing**
 
