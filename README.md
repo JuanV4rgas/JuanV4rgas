@@ -1,5 +1,5 @@
 ## Hi there 👋 
-## I'm is Juan Francisco Vargas
+## I'm Juan Francisco Vargas
 
 <div align="center">
   
